@@ -1,0 +1,14 @@
+{
+  "resourceName": "amplifyappbucket",
+  "policyUUID": "23422989",
+  "bucketName": "amplifyappbucketimages",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
